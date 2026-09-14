@@ -1,3 +1,7 @@
+#✅gemine diz:
+
+
+
 #sites confiáveis para busca de preços
 
 #Buscapé: Permite comparar preços de produtos de diversas categorias e oferece cashback e alertas de preço.
