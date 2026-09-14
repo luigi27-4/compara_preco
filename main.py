@@ -17,3 +17,16 @@
 
 #kompaia(pegar inpiração, porque tem a mesma ideia): Utiliza IA para comparar preços, cotar serviços e encontrar profissionais e empresas para resolver serviços na sua casa. 
 #Esses sites são confiáveis e oferecem uma variedade de ferramentas para ajudar os usuários a encontrar as melhores ofertas e preços certos para os produtos que desejam comprar.
+
+
+#✅chat gpt diz:
+
+#gogle shopping
+
+#mercado livre
+
+#amazon
+
+#shopee brasil
+
+#Buscapé e Zoom(mesmo do gemini)
