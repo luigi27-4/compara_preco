@@ -1,7 +1,1 @@
-import discord
-
-print('oi')
-print("oi,eu sou arthur")
-
-print("ola")
-print("me iamo pablo")
+#encontrar sites confiaveis para compras
